@@ -326,6 +326,59 @@
       }
      ],
      "closer": "*A few notes.* Everything in this thread is for the calendar month, and every ▲/▼ compares with the previous calendar month; the per-day lines include weekends, which are quiet by design. It's school-centric because Kenya has no zone layer above the schools; the deputy principals are the per-school leaders but aren't in the DB yet, so the human-observations panel is a 'starting later' placeholder. Score panels run on the AI-coach sessions that carry a score (TPAD + OECD); a per-school trend line needs 2+ scored days, so a school with one session so far shows as a point.\n\n— Rumi :)"
+    },
+    "sindh": {
+     "label": "Sindh (STEDA)",
+     "day": "2026-08-31",
+     "generated_at": "2026-09-10T00:10+05:00",
+     "panels": [
+      {
+       "file": "0_cover.png",
+       "alt": "cover",
+       "text": ""
+      },
+      {
+       "file": "1_registration.png",
+       "alt": "registration",
+       "text": ""
+      },
+      {
+       "file": "2_lessonplans.png",
+       "alt": "lessonplans",
+       "text": ""
+      },
+      {
+       "file": "3_ratings.png",
+       "alt": "ratings",
+       "text": ""
+      },
+      {
+       "file": "4_aicoach.png",
+       "alt": "aicoach",
+       "text": ""
+      },
+      {
+       "file": "5_teacherwise.png",
+       "alt": "teacherwise",
+       "text": ""
+      },
+      {
+       "file": "6_observations.png",
+       "alt": "observations",
+       "text": ""
+      },
+      {
+       "file": "7_score_trend.png",
+       "alt": "score trend",
+       "text": ""
+      },
+      {
+       "file": "8_score_subindicators.png",
+       "alt": "score subindicators",
+       "text": ""
+      }
+     ],
+     "closer": "*In short*\n\n• 71% of teachers made a lesson plan this month (287 plans) · 116 AI-coach sessions · 35 of 49 registered teachers active.\n\nCohort: the 51 teachers STEDA nominated, in the partner's own three cohorts (Torch Bearers, New Dawns, and the GGHS MA Jinnah subject teachers), matched to Rumi by phone.\n\n— Rumi :)"
     }
    }
   }
