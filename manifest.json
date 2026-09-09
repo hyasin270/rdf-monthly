@@ -205,11 +205,79 @@
       }
      ],
      "closer": "*In short — this month*\n\n1,324 lesson plans · 100 AI-coach sessions · 7 observations · 352 teachers active this month, across 1,068 on the roster.\n\n— Rumi :)"
+    },
+    "moawin": {
+     "label": "Moawin",
+     "day": "2026-08-31",
+     "generated_at": "2026-09-10T00:10+05:00",
+     "panels": [
+      {
+       "file": "0_cover.png",
+       "alt": "cover",
+       "text": "*Moawin — routine data flow · monthly roll-up · August 2026 · Sat 01 Aug – Mon 31 Aug*\n\nThe recurring usage thread for the Moawin deployment — 454 teachers across 215 schools, organised by cluster-coordinator portfolio. Same panel family as the other regions. Thread ↓"
+      },
+      {
+       "file": "1_registration.png",
+       "alt": "registration",
+       "text": "*Registration — who's on Rumi, by cluster coordinator.* Every Moawin coordinator's portfolio (grouped Attock / Chakwal / Gilgit-Baltistan, straight from the school-pilot database) and how many teachers actually used Rumi this month. 60 teachers don't match any cluster yet — they're the 'no coordinator' row, not dropped."
+      },
+      {
+       "file": "2_lessonplans.png",
+       "alt": "lessonplans",
+       "text": "*Teach Well — lesson plans.* The share of teachers making lesson plans AND the absolute count, each with its change chip. Bold navy = Moawin Punjab, bold gold = Gilgit-Baltistan; each thin dotted line is one coordinator's portfolio."
+      },
+      {
+       "file": "3_ratings.png",
+       "alt": "ratings",
+       "text": "*Teach Well — how teachers rated the lesson plans.* The thumbs-up verdict with the change vs the previous month, plus what the 'not useful' teachers wrote."
+      },
+      {
+       "file": "4_training.png",
+       "alt": "training",
+       "text": "*Teach Well — HOTS training progress.* Each of the six HOTS trainings: how many teachers have completed it (reached the rating step), with the growth chip. Newest training in gold."
+      },
+      {
+       "file": "5_aicoach.png",
+       "alt": "aicoach",
+       "text": "*Improve — AI-coach sessions.* Teacher-initiated AI-coach — a teacher records their own class and the AI coaches them. Bold navy = Punjab, bold gold = Gilgit-Baltistan, dotted = coordinator portfolios."
+      },
+      {
+       "file": "6_ahl_funnel.png",
+       "alt": "ahl funnel",
+       "text": "*Improve — the at-home-learning loop.* Teachers open a video and send it to class; children start the quiz at home, and finish it — each stage with its growth chip."
+      },
+      {
+       "file": "7_schoolwise.png",
+       "alt": "schoolwise",
+       "text": "*School-wise usage — where to point attention.* Every school with a registered teacher, grouped by cluster coordinator, worst first inside each group."
+      },
+      {
+       "file": "8_teacherwise.png",
+       "alt": "teacherwise",
+       "text": "*Teacher-wise usage — the follow-up list.* Every registered teacher by coordinator and school: green = used Rumi this month, grey = needs a follow-up."
+      },
+      {
+       "file": "9_observations.png",
+       "alt": "observations",
+       "text": "*Improve — coordinator observations vs the target.* Every cluster coordinator against the observation target (42 this month); gold ★ = went above it."
+      },
+      {
+       "file": "10_score_trend.png",
+       "alt": "score trend",
+       "text": "*Improve — how the HOTS score is trending.* The overall HOTS score from coordinator observations, with this month's average against last month's."
+      },
+      {
+       "file": "11_score_subindicators.png",
+       "alt": "score subindicators",
+       "text": "*Improve — HOTS by sub-indicator.* The five HOTS domains (Lesson Planning, Instructional Strategies, Student Engagement, Assessment & Feedback, Classroom Environment) — which is rising, which is slipping."
+      }
+     ],
+     "closer": "*A few notes.* Teachers = the 454 registered Moawin teachers; observers = the 19 cluster coordinators on the compliance roster, each mapped to their cluster's schools in the school-pilot database. 60 teachers don't match any cluster yet — flagged on the registration and teacher panels rather than dropped. If you count Moawin teachers with an org-wide query (e.g. the data MCP), you'll get a slightly bigger number — this brief deliberately leaves out the Akhuwat-program cohort and test rows; both counts are right, they're different cohorts. The score panels run on the HOTS-scored coordinator observations — small n so far, so read direction, not decimals. 37 observations were of teachers whose app profile isn't tagged to Moawin yet ((unnamed), Attiya, Azra, Ghulam, Iqra, Iram, Javeria, KASHMALA, Kainat, Muqaddas, Nageena, Neha, Raheela, Saira, Samiya, Sherin, Sidra, Sumayyah, Tahira, Zahida) — they count toward their coordinator, and fixing those tags will also link them to a school. This is the monthly roll-up: every number covers August in full, every change chip compares it with July, and the observation target is the daily one added up over August's working days. Gilgit-Baltistan appears as its own region across the panels — 359 Punjab + 95 GB teachers make up the 454 total. GB has no observation team yet, so it sits out the coordinator-observations panel; Moawin's POCs receive Punjab and GB separately.\n\n— Rumi :)"
     }
    }
   }
  },
  "site": {
-  "updated_at": "2026-09-10T00:09+05:00"
+  "updated_at": "2026-09-10T00:10+05:00"
  }
 }
