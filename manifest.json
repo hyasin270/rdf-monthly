@@ -1,0 +1,49 @@
+{
+ "months": {
+  "2026-08": {
+   "regions": {
+    "combined": {
+     "label": "Combined · all regions",
+     "day": "2026-08-31",
+     "generated_at": "2026-09-10T00:08+05:00",
+     "panels": [
+      {
+       "file": "0_cover.png",
+       "alt": "cover",
+       "text": "*Combined RDF — cross-region monthly roll-up · August 2026*\n\nICT, Rawalpindi, Tanzania, Kenya, Moawin and Sindh side by side — the same numbers each region's own RDF shows, one thread. This is the monthly roll-up: August 2026 · Sat 01 Aug – Mon 31 Aug — every number is the whole of August, and every ▲/▼ compares it with July.\n\nThread ↓"
+      },
+      {
+       "file": "1_scorecard.png",
+       "alt": "scorecard",
+       "text": "*Every region at a glance.* Teachers on Rumi, % making lesson plans, % doing AI-coaching, lesson-plan rating, human observations this month, and observations per leader per day (per working day of the month). Every chip compares this month with last month. Each region uses its own denominator, so these match what each team sees in its own RDF — an automatic parity check asserts that equality before every send."
+      },
+      {
+       "file": "2_lp_trend.png",
+       "alt": "lp trend",
+       "text": "*Teach Well — % of teachers making lesson plans, by region.* Over the calendar weeks inside August, Monday to Sunday, the first and last of them partial — the same month every region's own monthly covers. The end label on each line is the month's figure (the scorecard number), and its chip compares this month with last month. Curves are smoothed with a monotone cubic, so the line cannot invent a dip that never happened; the dots are each week's actual value, and the month's figure sits on the end label."
+      },
+      {
+       "file": "3_ai_trend.png",
+       "alt": "ai trend",
+       "text": "*Improve — % of teachers doing AI-coaching, by region.* Over the calendar weeks inside August, Monday to Sunday, the first and last of them partial — the same month every region's own monthly covers. The end label on each line is the month's figure (the scorecard number), and its chip compares this month with last month."
+      },
+      {
+       "file": "4_hitl.png",
+       "alt": "hitl",
+       "text": "*Improve — human observations per leader per day.* The HITL stream: a leader watches a class and scores it. Shown *per leader per day* rather than as a raw count, because the regions have very different team sizes (53 coaches in ICT, 12 deputy principals in Kenya) and a raw count would only ever say which region is biggest. The end label on each line is the month's figure (the scorecard number), and its chip compares this month with last month."
+      },
+      {
+       "file": "5_fico.png",
+       "alt": "fico",
+       "text": "*One rubric, every region — how FICO is trending.* Every region's *AI-coach* recordings (a teacher recording their own class, which is the same act everywhere) scored against the same rubric by the same model, restricted to each region's canonical cohort — the same people every other panel counts. The end label on each line is the month's figure (the scorecard number), and its chip compares this month with last month. Every region on the card is sampled — a region with no line here has no scored recordings in the window, not a region we skipped. Full method, one page: <https://docs.google.com/document/d/1L-w9eeOSosPCszepuES1q-d5I5c_f0YWtYI9DWPJ2ps/edit|How the combined RDF compares regions>."
+      }
+     ],
+     "closer": "*A few notes.* Each region uses its OWN denominator so these match what each team sees in its own RDF: ICT = the 3611 registered primary teachers with a sector (ICT's own LP-panel denominator); Rawalpindi = its zone roster of 1068; Tanzania = the 45 canonical pilot people matched to Rumi (school leaders included, exactly as Tanzania's own sheet lists them); Kenya = the 60 canonical SHOFCO teachers; Moawin = the 454 registered org-moawin teachers, observed by cluster coordinators; Sindh = the 51 teachers STEDA nominated, 49 of them matched to Rumi by phone (the `region` column holds 800, sixteen times the roster, so it is not the filter). Sindh has no human observers yet — nobody has been set up to run /observe there, so its observer row reads \"not enabled\" rather than zero. How all of this is made comparable: <https://docs.google.com/document/d/1L-w9eeOSosPCszepuES1q-d5I5c_f0YWtYI9DWPJ2ps/edit|one-page method note>. — Rumi :)"
+    }
+   }
+  }
+ },
+ "site": {
+  "updated_at": "2026-09-10T00:08+05:00"
+ }
+}
