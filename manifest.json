@@ -137,6 +137,74 @@
       }
      ],
      "closer": "*In short this month*\n\n• 20,291 lesson plans · 1,170 coach observations · 2,037 AI-coach sessions · 2,648 teachers active this month.\n\n<!subteam^S0B577VDRE2> <!subteam^S0B5JQT1542>\n\n— Rumi :)"
+    },
+    "rwp": {
+     "label": "Rawalpindi",
+     "day": "2026-08-31",
+     "generated_at": "2026-09-10T00:09+05:00",
+     "panels": [
+      {
+       "file": "00_cover.png",
+       "alt": "cover",
+       "text": "*Rawalpindi — routine data flow · monthly roll-up · August 2026 · Sat 01 Aug – Mon 31 Aug*\n\nThe whole picture in one thread — Teach Well (registration, lesson plans, ratings, HOTS training) and Improve (the at-home-learning loop, AI-coach, observations, HOTS), all by TM zone. Everything below is for this month — August as a whole, with every ▲/▼ against last month. Thread ↓"
+      },
+      {
+       "file": "01_registration.png",
+       "alt": "registration",
+       "text": "*Registration — who's on Rumi, by zone*\n\n1,062 Rawalpindi teachers on Rumi · 352 active this month · 3 joined this month. Broken out by TM zone below, with Summaya (PM) on the overall line.\n\nEvery school here is mapped to its AEO and TM straight from <https://docs.google.com/spreadsheets/d/1uN3-hCG2OYVC6BFB8ONP3MgMxtf1rLZP9YOC8OfBmhw/edit|your own Rawalpindi School Coordinates sheet> — that document is the source of truth now, so a correction you make there shows up in the next brief.\n\n_1 school is not in the sheet yet, so its teachers are still counted under the zone they had before — GGPS KOHALA SYEDAN (1). Adding them to the sheet moves them._"
+      },
+      {
+       "file": "02_lessonplans.png",
+       "alt": "lessonplans",
+       "text": "*Teach Well — lesson plans by zone*\n\n1,324 lesson plans made this month, split by TM zone (every day of August). The solid line is all Rawalpindi; the dotted lines are each zone."
+      },
+      {
+       "file": "03_ratings.png",
+       "alt": "ratings",
+       "text": "*Teach Well — how teachers rated the lesson plans*\n\n96% of the 481 teachers who rated a lesson plan this month found it useful. Below the headline: the themes the 'not useful' teachers actually wrote."
+      },
+      {
+       "file": "04_training.png",
+       "alt": "training",
+       "text": "*Teach Well — HOTS training progress*\n\nTeachers who reached the rating step on each of the six fortnightly HOTS trainings (cumulative) — the ▲ chip on each bar is the growth since last month."
+      },
+      {
+       "file": "05_funnel.png",
+       "alt": "funnel",
+       "text": "*Improve — the at-home-learning loop*\n\nTeachers open a video and send it to class; children start the quiz and finish it. Each stage carries its growth since last month."
+      },
+      {
+       "file": "06_aicoach.png",
+       "alt": "aicoach",
+       "text": "*Improve — AI-coach sessions by zone*\n\n100 AI-coach sessions this month — a teacher records their own class and the AI coaches them. Split by TM zone (every day of August, the end labels are the month totals). 533 teachers have never tried it — Sohaib Danish 175, Iffat Akhtar 127, Tehniat Taqdees 117, Raheela 114. The live table's 'AI-coach ever' column names them, zone by zone."
+      },
+      {
+       "file": "07_schoolwise.png",
+       "alt": "schoolwise",
+       "text": "*School-wise usage — where to point attention*\n\nEvery school grouped by TM zone, worst usage first — the % of a school's teachers who used a lesson plan or AI-coach this month. Redder = needs a nudge."
+      },
+      {
+       "file": "08_aeo_cards.png",
+       "alt": "aeo cards",
+       "text": "*Improve — AEO cards*\n\nOne card per AEO: the top bar is the % of their teachers active this month, then their lowest-usage schools, with a count of the rest doing better. This is where retention effort pays off."
+      },
+      {
+       "file": "09_observations.png",
+       "alt": "observations",
+       "text": "*Improve — AEO observations by zone*\n\n7 observations logged this month via /observe, by TM zone — target 2 a day per AEO — 42 for August's 21 working days."
+      },
+      {
+       "file": "10_hots_trend.png",
+       "alt": "hots trend",
+       "text": "*Improve — how HOTS is trending, by zone*\n\nAugust's average HOTS from teachers' own AI-coach sessions — 53% all Rawalpindi (last month had no scored sessions), across 7 scored days. Solid = all Rawalpindi, dotted = each zone."
+      },
+      {
+       "file": "11_hots_subindicators.png",
+       "alt": "hots subindicators",
+       "text": "*Improve — HOTS by domain, over time*\n\nThe five HOTS domains (lesson planning, instructional strategies, student engagement, assessment & feedback, classroom environment) as daily-average lines — which is rising, which is slipping. The end labels are August's average per domain, each with its move against last month."
+      }
+     ],
+     "closer": "*In short — this month*\n\n1,324 lesson plans · 100 AI-coach sessions · 7 observations · 352 teachers active this month, across 1,068 on the roster.\n\n— Rumi :)"
     }
    }
   }
