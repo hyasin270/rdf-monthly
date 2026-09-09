@@ -330,55 +330,55 @@
     "sindh": {
      "label": "Sindh (STEDA)",
      "day": "2026-08-31",
-     "generated_at": "2026-09-10T00:11+05:00",
+     "generated_at": "2026-09-10T00:12+05:00",
      "panels": [
       {
        "file": "0_cover.png",
        "alt": "cover",
-       "text": ""
+       "text": "==============================================================================\n*Sindh (STEDA) — monthly roll-up · August 2026 · Sat 01 Aug – Mon 31 Aug*\n\nThe month's picture for the 51 teachers STEDA nominated, in the partner's own three cohorts (Torch Bearers, New Dawns, and the GGHS MA Jinnah subject teachers), matched to Rumi by phone. Registration, lesson plans and AI coaching over the whole month, broken down by cohort, each compared with the month before. Thread ↓\n\n=============================================================================="
       },
       {
        "file": "1_registration.png",
        "alt": "registration",
-       "text": ""
+       "text": "==============================================================================\n*Registration — who's on Rumi, by cohort*\n\n49 of the 51 nominated teachers are on Rumi, and 35 of them used it this month (against 5 the month before). The bar shows each cohort's nominated, registered and active counts.\n\n2 nominated teachers have never registered — named in the live sheet so they can be chased, not rounded away.\n\n=============================================================================="
       },
       {
        "file": "2_lessonplans.png",
        "alt": "lessonplans",
-       "text": ""
+       "text": "==============================================================================\n*Teach Well — % of teachers making lesson plans, by cohort*\n\n71% of the 49 registered teachers made a lesson plan this month — 35 of them, 287 plans in total. That is 61 points up on the month before (10%). Each cohort is measured against its own registered teachers, so All Sindh is the weighted average of the three.\n\n=============================================================================="
       },
       {
        "file": "3_ratings.png",
        "alt": "ratings",
-       "text": ""
+       "text": "==============================================================================\n*Teach Well — how teachers rated the lesson plans this month*\n\n79% of the 28 teachers who rated a lesson plan this month found it useful (22 👍, 6 👎).\n\n=============================================================================="
       },
       {
        "file": "4_aicoach.png",
        "alt": "aicoach",
-       "text": ""
+       "text": "==============================================================================\n*Improve — AI-coach sessions by cohort*\n\n116 AI-coach sessions this month, from 17 teachers — each one a teacher recording their own class for the AI to coach them on. The month before had 0 sessions. Counts, not percentages, so the axis stays whole.\n\n=============================================================================="
       },
       {
        "file": "5_teacherwise.png",
        "alt": "teacherwise",
-       "text": ""
+       "text": "==============================================================================\n*Teacher-wise — every nominated teacher*\n\nAll 51 STEDA teachers by cohort, busiest first. Green means the teacher made a lesson plan, did AI coaching or rated a plan this month — 35 of them did. This is the follow-up list.\n\n=============================================================================="
       },
       {
        "file": "6_observations.png",
        "alt": "observations",
-       "text": ""
+       "text": "==============================================================================\n*Improve — human classroom observations*\n\nHuman observers are not enabled for Sindh yet — no coach or head teacher has been set up to run /observe. Everything below is teacher-initiated AI coaching. The panel says so rather than drawing an empty chart, which would read as a team that did nothing.\n\n=============================================================================="
       },
       {
        "file": "7_score_trend.png",
        "alt": "score trend",
-       "text": ""
+       "text": "==============================================================================\n*Improve — how the coaching score is trending*\n\n63% average this month across 113 scored sessions on 11 days with coaching. Sindh runs HOTS. The line is the daily average; the latest scored day, Mon 31 Aug, came in at 58%. No scored sessions the month before, so there is no baseline yet.\n\n=============================================================================="
       },
       {
        "file": "8_score_subindicators.png",
        "alt": "score subindicators",
-       "text": ""
+       "text": "==============================================================================\n*Improve — coaching score by sub-indicator*\n\nStudent Engagement 50%, Assessment Feedback 59%, Classroom Environment 61%, Lesson Planning 67%, Instructional Strategies 73%. Lowest is *Student Engagement* at 50% — that is where coaching goes; highest is Instructional Strategies at 73%.\n\n==============================================================================\n[9] In short — closer  ·  (text only)\n==============================================================================\n*In short*\n\n• 71% of teachers made a lesson plan this month (287 plans) · 116 AI-coach sessions · 35 of 49 registered teachers active.\n\nCohort: the 51 teachers STEDA nominated, in the partner's own three cohorts (Torch Bearers, New Dawns, and the GGHS MA Jinnah subject teachers), matched to Rumi by phone.\n\n— Rumi :)"
       }
      ],
-     "closer": "*In short*\n\n• 71% of teachers made a lesson plan this month (287 plans) · 116 AI-coach sessions · 35 of 49 registered teachers active.\n\nCohort: the 51 teachers STEDA nominated, in the partner's own three cohorts (Torch Bearers, New Dawns, and the GGHS MA Jinnah subject teachers), matched to Rumi by phone.\n\n— Rumi :)"
+     "closer": null
     },
     "tz": {
      "label": "Tanzania",
@@ -422,6 +422,6 @@
   }
  },
  "site": {
-  "updated_at": "2026-09-10T00:11+05:00"
+  "updated_at": "2026-09-10T00:12+05:00"
  }
 }
